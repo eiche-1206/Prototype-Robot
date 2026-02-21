@@ -18,7 +18,7 @@
 本项目开发平台信息如下：
 
 - 系统版本： Ubunt20.04
-- ROS 版本：ROS 2 galatic
+- ROS 版本：ROS 2 galactic
 
 ### 2.1安装
 
