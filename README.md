@@ -70,7 +70,7 @@ source install/setup.bash
 ros2 launch fishbot_navigation2 navigation2.launch.py
 ```
 
-运行自动巡检
+运行自动巡检(还未实现)
 
 ```
 source install/setup.bash
